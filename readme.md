@@ -12,4 +12,4 @@ Project for practicing branching, pulling, and merging with Git and GitHub.
 
 1. `npm run dev`
 
-1. JEWELL WAS HERE
+1. Stay away from my booty!!
